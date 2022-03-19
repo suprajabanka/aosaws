@@ -2,8 +2,8 @@ import unittest
 import aos_locators as locators
 import aos_methods as methods
 
-class aoswebsitePositiveTestCases (unittest.TestCase):
-    @staticmethod
+class aoswebsitePositiveTestCases (unittest.TestCase): # create class
+    @staticmethod 
     def test_create_new_user():
         methods.setUp()
         methods.create_new_account()

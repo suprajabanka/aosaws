@@ -25,5 +25,5 @@ account_test_data = {'usernameRegisterPage': user_name, 'emailRegisterPage': ema
              'confirm_passwordRegisterPage': password, 'first_nameRegisterPage': first_name, 'last_nameRegisterPage': last_name,
              'phone_numberRegisterPage': phone, 'cityRegisterPage': city, 'addressRegisterPage': address,
              'state_/_province_/_regionRegisterPage': state, 'postal_codeRegisterPage': postal_code}
-# ----------------------------------------------------------
+# --------------------------------------------------------------------------------
 

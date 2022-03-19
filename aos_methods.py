@@ -10,6 +10,7 @@ from selenium.webdriver.chrome.options import Options
 
 # s = Service(executable_path='c:\\Users\\ramak\\PycharmProjects\\pythonProject\\chromedriver.exe')
 # driver = webdriver.Chrome(service=s)
+
 options = Options()
 options.add_argument("--headless")
 options.add_argument("window-size=1400,1500")
